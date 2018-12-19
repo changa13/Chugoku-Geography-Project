@@ -1,3 +1,5 @@
 **1** This project was different from the way I normally do them because I am not used to directly typing out what I changed everytime I save the draft. Also I am not used to having to uploaded it after each significant change, normally I would just type it out on Google Docs or just save it locally on my own laptop so there would only be one copy. 
+
 **2** One way that this was an improvement was that it helped me keep track of each time I changed something. Although I didn't need to go back to a previous version during this project, it was very helpful and reassuring to know that it was there just in case something like my computer crashing or accidentally deleting a portion of my project and saving/closing happened.
+
 **3** After this project I might start taking more mental notes on what I changed between each version of a draft of a project. Previously I just paid no attention to it but now I think it is more helpful to think of projects as blocks or portions instead to break it down into more managable chunks.
